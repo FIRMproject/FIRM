@@ -1,3 +1,0 @@
-/home/luigi/projects/FIRM/build/CMakeFiles/rebuild_cache.dir
-/home/luigi/projects/FIRM/build/CMakeFiles/edit_cache.dir
-/home/luigi/projects/FIRM/build/CMakeFiles/FIRM.dir
