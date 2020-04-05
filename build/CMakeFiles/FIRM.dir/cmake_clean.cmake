@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/FIRM.dir/main.cpp.o"
-  "FIRM"
-  "FIRM.pdb"
+  "firm.out"
+  "firm.out.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
